@@ -45,6 +45,11 @@
     <!-- Replace href with your actual profile links -->
     <a href="https://www.linkedin.com/in/jeevaappuhamy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://public.tableau.com/app/profile/thennakoon.mudelige.appuhamy/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio"/></a>
+</p>
+  <br>
+  <h3 align="left">My Projects</h3>
+  <p align="center">
+    <a href="https://github.com/antonjeeva5/power-bi" target="_blank"><img src="https://img.shields.io/badge/Power_BI_Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Power BI Projects"/></a>
   </p>
 </td>
 
