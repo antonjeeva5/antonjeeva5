@@ -49,7 +49,7 @@
   <br>
   <h3 align="left">My Projects</h3>
   <p align="center">
-    <a href="https://github.com/antonjeeva5/power-bi-projects" target="_blank"><img src="https://img.shields.io/badge/Power_BI_Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Power BI"/></a>
+    <a href="https://github.com/antonjeeva5/power-bi" target="_blank"><img src="https://img.shields.io/badge/Power_BI_Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Power BI"/></a>
   </p>
 </td>
 
