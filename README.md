@@ -30,7 +30,7 @@
 <!-- Right Column -->
 <td valign="top" width="40%">
   <h3 align="left">🛠️ Languages & Tools</h3>
-  <p align="center">
+  <p align="left">
     <!-- Skills from your resume -->
     <a href="https://www.microsoft.com/en-us/power-bi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Power BI / SQL" width="50" height="40"/></a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="50" height="40"/></a>
@@ -45,7 +45,6 @@
     <!-- Replace href with your actual profile links -->
     <a href="https://linkedin.com/in/your_username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://public.tableau.com/app/profile/thennakoon.mudelige.appuhamy/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio"/></a>
-    <a href="mailto:antonjeeva5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </td>
 
