@@ -33,11 +33,21 @@
   <p align="left">
     <!-- Skills from your resume -->
     <a href="https://www.microsoft.com/en-us/power-bi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Power BI / SQL" width="50" height="40"/></a>
+   &nbsp;&nbsp;&nbsp;
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="50" height="40"/></a>
-    <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="40"/></a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/power-bi" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="Power BI" width="40" height="40"/></a>
+   &nbsp;&nbsp;&nbsp;
     <a href="https://www.microsoft.com/en-us/excel" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Emblem.png" alt="Microsoft Excel" width="50" height="40"/></a>
-    <a href="https://www.smartsheet.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Smartsheet_logo.svg/2560px-Smartsheet_logo.svg.png" alt="Smartsheet" width="50" height="40"/></a>
+   &nbsp;&nbsp;&nbsp;
+    <a href="https://www.smartsheet.com" target="_blank">Smartsheet</a>
+   &nbsp;&nbsp;&nbsp;
     <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2022/02/ServiceNow-Symbol.png" alt="ServiceNow" width="50" height="40"/></a>
+   &nbsp;&nbsp;&nbsp;
+   <a href="https://www.microsoft.com/en-us/microsoft-365/visio/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-visio-icon.png" alt="Microsoft Visio" width="40" height="40"/>
+</a>
   </p>
   <br>
   <h3 align="left">🌐 Connect with Me</h3>
