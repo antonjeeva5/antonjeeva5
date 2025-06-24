@@ -29,7 +29,7 @@
 </td>
 <!-- Right Column -->
 <td valign="top" width="40%">
-  <h3 align="left">🛠️ Languages & Tools</h3>
+  <h3 align="left">🛠️ My Toolkit</h3>
   <p align="left">
     <!-- Skills from your resume -->
     <a href="https://www.microsoft.com/en-us/power-bi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Power BI / SQL" width="50" height="40"/></a>
