@@ -60,6 +60,7 @@
   <p align="left">
     <a href="https://github.com/antonjeeva5/power-bi-projects" target="_blank"><img src="https://img.shields.io/badge/Power_BI-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Power BI"/></a>
     <a href="https://public.tableau.com/app/profile/thennakoon.mudelige.appuhamy/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Portfolio"/></a>
+   <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/></a>
   </p>
 </td>
 
